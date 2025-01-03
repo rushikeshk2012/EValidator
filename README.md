@@ -23,7 +23,7 @@ A dynamic and responsive web Application  built using **HTML**, **CSS**, and **J
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rushikeshk2012/email-validation-tool.git 
+   git clone https://github.com/rushikeshk2012/EValidator.git 
    ```
 2. Open the `index.html` file in your browser to start using the tool.
 
